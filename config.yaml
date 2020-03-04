@@ -4,8 +4,8 @@ params:
   layout_style: default
   palette: blue
   header:
-    title: Stackbit Fresh
-    tagline: Header Tagline
+    title: pdrift
+    tagline: product parenting
     profile_img: /images/tt.jpeg
     bg: dark
     has_nav: true
