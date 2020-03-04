@@ -1,7 +1,7 @@
 title: Stackbit Fresh Theme
 baseURL: /
 params:
-  layout_style: overflow
+  layout_style: default
   palette: blue
   header:
     title: Stackbit Fresh
