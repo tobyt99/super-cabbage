@@ -7,7 +7,7 @@ params:
     title: pdrift
     tagline: product parenting
     profile_img: /images/tt.jpeg
-    bg: light
+    bg: dark
     has_nav: true
     has_social: true
   footer:
